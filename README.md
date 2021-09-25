@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gaobin4216
 - 👀 I’m interested in C++，manipulator or robotical arm of force control, and used to be a mechanical engineer.
 - 🌱 I’m currently learning C++，DSA.
-- 📫 You can contact me by sending an email to 857244301@qq.com 
+- 📫 You can contact me by sending an email to 857244301@qq.com or gaobin4216@gmail.com
 
 <!---
 gaobin4216/gaobin4216 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
